@@ -21,11 +21,15 @@ This is a simple REST API for managing books. The API allows you to perform CRUD
 ### Installation
 1. Clone the repo:
    git clone https://github.com/your-username/book-management-api.git
+   
 2.Install Dependencies
     npm install 
+    
 3.Running the API
 Start the server:
+
 npm run dev
+
 The server will run at http://localhost:3000.
 
 API Endpoints:
