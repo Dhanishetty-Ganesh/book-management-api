@@ -30,10 +30,15 @@ The server will run at http://localhost:3000.
 
 API Endpoints:
 POST /api/books - Create a new book
+
 GET /api/books - Get all books
+
 GET /api/books/:id - Get a specific book by ID
+
 PUT /api/books/:id - Update a book
+
 DELETE /api/books/:id - Delete a book
+
 POST /api/books/import - Import books from a CSV file
 
 Running Tests
